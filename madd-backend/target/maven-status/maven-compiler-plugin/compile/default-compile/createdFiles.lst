@@ -1,4 +1,6 @@
-com\madd\backend\configurations\CorsFilter$1.class
 com\madd\backend\MaddInitializer.class
+com\madd\backend\configurations\CorsFilter$1.class
+com\madd\backend\configurations\FileStorageProperties.class
+com\madd\backend\dto\FileResponse.class
 com\madd\backend\configurations\CorsFilter.class
-com\madd\backend\pictures\PictureSelectorController.class
+com\madd\backend\controllers\FileController.class
