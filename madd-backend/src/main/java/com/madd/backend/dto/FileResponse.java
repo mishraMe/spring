@@ -6,7 +6,6 @@ public class FileResponse {
     private String destination;
     private long size;
 
-
     public String getName() {
         return name;
     }
